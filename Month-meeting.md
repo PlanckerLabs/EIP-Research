@@ -2,6 +2,9 @@
 ## 10-30 Quick sync
 ===
 
+
+[![hackmd-github-sync-badge](https://hackmd.io/l_P8f1uwROqX9U6zmVUYeg/badge)](https://hackmd.io/l_P8f1uwROqX9U6zmVUYeg)
+
 ###### tags: `build` `cooperation`
 
 :::danger
@@ -79,7 +82,7 @@ https://meeting.tencent.com/dm/igqGkpEtUGoL
       - [ ] 瓦猫SBT和其他SBT初次发布
   - [ ] 2.社区SBT体系设计 **4**
       - [ ] 分发流程等，为社区体系准备，为后续版本准备
-      - [ ] [SOP设计并践行](/qcMqKFtUS_iroxSlnirGYA)
+      - [ ] [SOP设计并践行](https://hackmd.io/@jhfnetboy/BkXh18sVi)
   - [ ] 3.on-boarding 新人(产品，设计，开发) **3**
       - [ ] 在勾搭一个CTO，期待忽悠到普朗克
       - [ ] Dane计划上海见面聊下，下个月
