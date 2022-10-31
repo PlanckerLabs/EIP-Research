@@ -51,4 +51,5 @@ twitter 更新 / 微信公众号
 ### Check人角色
 + 按表格每周到时间前1天和当天跟进和验收各位Core的github贡献
 + 按月度规划，check大家的研究进展和输出情况
++ Check各位Core（Genesis）在Planning[月度规划](https://hackmd.io/@jhfnetboy/r1TkcriNs)
 
