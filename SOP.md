@@ -1,3 +1,5 @@
+
+[![hackmd-github-sync-badge](https://hackmd.io/qcMqKFtUS_iroxSlnirGYA/badge)](https://hackmd.io/qcMqKFtUS_iroxSlnirGYA)
 # 建设小组SOP
 + 快速建立，快速迭代，治理性质会议不超过30分钟。
 + 产出物：文章、代码、分享活动（视频），所有都push github。
