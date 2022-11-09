@@ -2,8 +2,8 @@
 ## 研究内容
 + 1.文档，存在于三个github repo：EIP、Product、Tech
 + 2.视频：
-+ [B站]([https://space.bilibili.com/1729402830](https://space.bilibili.com/1729402830))
-+ [Youtube]([https://www.youtube.com/channel/UCatIOSch3OIVifZuK9jO7cg](https://www.youtube.com/channel/UCatIOSch3OIVifZuK9jO7cg))
++ [B站](https://space.bilibili.com/1729402830)
++ [Youtube](https://www.youtube.com/channel/UCatIOSch3OIVifZuK9jO7cg)
 + 3.代码：一般在Tech repo下
 
 ## 相关新增EIP、产品和技术的研究要求：
