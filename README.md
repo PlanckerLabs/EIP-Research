@@ -1,4 +1,9 @@
 
+## 产出
++ [EIP3668.md](EIP3668.md)
++ [EIP4973.md](EIP4973.md)
++ [ERC3525.md](ERC3525.md)
+
 ## 研究内容
 + 1.文档，存在于三个github repo：EIP、Product、Tech
 + 2.视频：
