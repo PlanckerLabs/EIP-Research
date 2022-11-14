@@ -1,9 +1,18 @@
 
 ## 产出
+### EIP
 + [EIP3668.md](EIP3668.md)
 + [EIP4973.md](EIP4973.md)
 + [ERC3525.md](ERC3525.md)
 
+### Product
++ [Product](https://github.com/PlanckerLabs/Product-Research/blob/main/README.md)
+
+### Tech
++ [Tech](https://github.com/PlanckerLabs/Tech-Research/blob/main/README.md)
++ 
+
+--------------------
 ## 研究内容
 + 1.文档，存在于三个github repo：[EIP](https://github.com/PlanckerLabs/EIP-Research)、[Product](https://github.com/PlanckerLabs/Product-Research)、[Tech](https://github.com/PlanckerLabs/Tech-Research)
 + 2.视频：
