@@ -5,7 +5,7 @@
 + [ERC3525.md](ERC3525.md)
 
 ## 研究内容
-+ 1.文档，存在于三个github repo：EIP、Product、Tech
++ 1.文档，存在于三个github repo：[EIP](https://github.com/PlanckerLabs/EIP-Research)、[Product](https://github.com/PlanckerLabs/Product-Research)、[Tech](https://github.com/PlanckerLabs/Tech-Research)
 + 2.视频：
 + [B站](https://space.bilibili.com/1729402830)
 + [Youtube](https://www.youtube.com/channel/UCatIOSch3OIVifZuK9jO7cg)
