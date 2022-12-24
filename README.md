@@ -2,6 +2,7 @@
 ## 产出
 ### EIP
 + [EIP3668.md](EIP3668.md)
++ [ERC4824.md](EIP4824.md)
 + [EIP4973.md](EIP4973.md)
 + [ERC3525.md](ERC3525.md)
 
